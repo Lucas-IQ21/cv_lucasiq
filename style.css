@@ -1,0 +1,70 @@
+body{
+    background-color: white;
+
+}
+
+
+header{
+    margin-top: -35px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-color: rgb(64, 64, 175);
+    width: auto;
+    height: 240px;
+    text-align: center;
+}
+
+header h1{
+    font-size: 50px;
+    padding-top: 80px;
+
+}
+
+.sectiontitre{
+    width: 120px;
+    height: 120px; 
+    border: 4px solid rgb(43, 42, 42);
+    border-radius: 160px;
+    padding: 50px;
+    margin-top: -165px;
+    margin-right: 15px;
+    background-image: url(anonyme.png);
+    background-size: 100%;
+}
+
+
+
+
+footer{
+    background-color: grey;
+    width: 100%;
+    margin-left: -9px;
+    margin-right: -7px;
+    font-size: 16px;
+    bottom: 0;
+    text-align: center;
+}
+
+.diplome{
+    background-color: rgb(67, 67, 199);
+    border: 5px solid black;
+    border-radius: 4px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.expérience{
+    background-color: white;
+    border-radius: 5px;
+    border: 4px solid black;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.loisirs{
+    background-color: rgb(225, 163, 163);
+    border-radius: 2px;
+    border: 4px solid black;
+    margin-left: -8px;
+    margin-right: -8px;
+}
