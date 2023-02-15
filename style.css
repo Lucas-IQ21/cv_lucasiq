@@ -27,7 +27,7 @@ header h1{
     padding: 50px;
     margin-top: -165px;
     margin-right: 15px;
-    background-image: url(img/anonyme.png);
+    background-image: url(anonyme.png);
     background-size: 100%;
 }
 
@@ -44,31 +44,35 @@ header h1{
 
 .contact{
     text-align: center;
-    font-size: large;
+    font-size: 20px;
 }
 
 #contact_titre{
     text-decoration: underline;
     font-weight: bold;
     font-size: 20px;
+    text-align: center; 
 }
 
 #appel{
     width: 20px;
     height: 20px;
     margin-bottom: -4px;
+    display: inline;
 }
 
 #enveloppe{
     width: 20px;
     height: 20px;
     margin-bottom: -4px;
+    display: inline;
 }
 
 #home{
     width: 20px;
     height: 20px;
     margin-bottom: -4px;
+    display: inline;
 }
 
 .competence{
